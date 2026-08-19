@@ -1,5 +1,7 @@
 # WitnessOS EU AI Act Compliance Grade
 
+[![OpenSSF Best Practices - Baseline 1](https://www.bestpractices.dev/projects/14147/badge)](https://www.bestpractices.dev/projects/14147)
+
 **Status:** DRAFT — Ready for Sovereign review and deployment to empirelabs.site/witnessos/grade
 
 ## Overview
