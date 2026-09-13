@@ -38,7 +38,7 @@ A self-contained single-page HTML tool that helps enterprises assess their AI ag
 ## How to deploy
 
 ### Option A: empirelabs.site
-1. Copy `index.html` to `/mnt/c/VaultSentinel/HermesGenesis/site/witnessos/grade/index.html`
+1. Copy `index.html` into the site's `grade/` directory
 2. Verify the path exists and is served by the site's static file handler
 3. Test: visit `https://empirelabs.site/witnessos/grade`
 4. Submit a test assessment to verify grade calculation + email capture
