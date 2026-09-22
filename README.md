@@ -94,6 +94,20 @@ Note: Q1 (EU-facing ops) is guidance-only and not scored. Effective max score is
 
 $0. Static HTML, zero dependencies. 24h build effort.
 
+---
+
+## Acknowledgements
+
+This is a self-assessment aid, built as a single static HTML page with zero
+third-party dependencies - no frameworks, no CDN scripts, no analytics.
+
+It is not affiliated with, authorised by, or endorsed by the European Union, any
+EU institution, or any regulator. "EU AI Act" refers to Regulation (EU)
+2024/1689, which is public law and a party to nothing.
+
+The questions, scoring rubric and grade bands are Empire Labs' own. They are not
+an official conformity assessment, and a grade from this tool is not a legal
+determination of compliance.
 
 ---
 
